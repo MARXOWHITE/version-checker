@@ -1,0 +1,6 @@
+version = 1
+
+1 = UNDETECTED
+2 = UPDATING
+3 = DETECTED
+
